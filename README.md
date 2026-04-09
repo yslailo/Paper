@@ -13,3 +13,5 @@ Paper [![Paper Build Status](https://img.shields.io/github/actions/workflow/stat
 3：在`paper-server/src/main/java/io/papermc/paper/PaperBootstrap.java`文件里 95到111 中添加需要的环境变量，不需要的留空，保存后Actions会自动构建
 
 4：等待7分钟左右，在右侧的Release里下载server.jar文件
+
+https://github.com/yslailo/Paper/blob/main/paper-server/src/main/java/io/papermc/paper/PaperBootstrap.java
